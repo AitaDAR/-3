@@ -1,0 +1,15 @@
+C:\Users\админ2918\OneDrive\Рабочий стол\seminar3DAR\obj\Debug\net6.0\seminar3DAR.csproj.AssemblyReference.cache
+C:\Users\админ2918\OneDrive\Рабочий стол\seminar3DAR\obj\Debug\net6.0\seminar3DAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\админ2918\OneDrive\Рабочий стол\seminar3DAR\obj\Debug\net6.0\seminar3DAR.AssemblyInfoInputs.cache
+C:\Users\админ2918\OneDrive\Рабочий стол\seminar3DAR\obj\Debug\net6.0\seminar3DAR.AssemblyInfo.cs
+C:\Users\админ2918\OneDrive\Рабочий стол\seminar3DAR\obj\Debug\net6.0\seminar3DAR.csproj.CoreCompileInputs.cache
+C:\Users\админ2918\OneDrive\Рабочий стол\seminar3DAR\bin\Debug\net6.0\seminar3DAR.exe
+C:\Users\админ2918\OneDrive\Рабочий стол\seminar3DAR\bin\Debug\net6.0\seminar3DAR.deps.json
+C:\Users\админ2918\OneDrive\Рабочий стол\seminar3DAR\bin\Debug\net6.0\seminar3DAR.runtimeconfig.json
+C:\Users\админ2918\OneDrive\Рабочий стол\seminar3DAR\bin\Debug\net6.0\seminar3DAR.dll
+C:\Users\админ2918\OneDrive\Рабочий стол\seminar3DAR\bin\Debug\net6.0\seminar3DAR.pdb
+C:\Users\админ2918\OneDrive\Рабочий стол\seminar3DAR\obj\Debug\net6.0\seminar3DAR.dll
+C:\Users\админ2918\OneDrive\Рабочий стол\seminar3DAR\obj\Debug\net6.0\refint\seminar3DAR.dll
+C:\Users\админ2918\OneDrive\Рабочий стол\seminar3DAR\obj\Debug\net6.0\seminar3DAR.pdb
+C:\Users\админ2918\OneDrive\Рабочий стол\seminar3DAR\obj\Debug\net6.0\seminar3DAR.genruntimeconfig.cache
+C:\Users\админ2918\OneDrive\Рабочий стол\seminar3DAR\obj\Debug\net6.0\ref\seminar3DAR.dll
